@@ -1,0 +1,3 @@
+data(indexfinger)
+summary(indexfinger)
+str(indexfinger)
