@@ -1,0 +1,9 @@
+fib1 = 1
+fib2 = 1
+fibonacci=c(fib1,fib2)
+while(fib2<300){
+fibonacci=c(fibonacci, fib2)
+oldfib2=fib2
+fib2=fib1+fib2
+fib1=oldfib2
+}
