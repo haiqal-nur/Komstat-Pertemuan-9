@@ -3,3 +3,4 @@ indexfinger <- data.frame(
   length = c(7.9, 6.5),
   width = c(2.3, 1.7)
 ) 
+plot(width ~ length, data=indexfinger)
