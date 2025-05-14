@@ -1,3 +1,2 @@
-data(indexfinger) #harus berupa dataset
 summary(indexfinger)
 str(indexfinger)
